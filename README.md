@@ -1,7 +1,14 @@
-<h1 align="center">Hello There 👋</h1>
+<h1 align="center">
+    <img alt="Child Luffy Hello" src="images/small-luffy-hello.gif" width="80">
+    Hello There
+</h1>
 
 <p align="center">
-    <img alt="github-banner" src="images/readme-banner.svg">
+    <img alt="Github Banner" src="images/readme-banner.svg" width="750">
+</p>
+
+<p align="center">
+    <img alt="Github Views Count" src="https://komarev.com/ghpvc/?username=MightyCoderX&color=blue&style=for-the-badge" width="150">
 </p>
 
 <p class="stats" align="center">
@@ -10,22 +17,22 @@
     <img src="images/anime-lover.svg" alt="MightyCoderX's github readme anime lover svg" width="350">
 </p>
 
+
+## About Me
+I enjoy learning in general, especially anything that's STEM, but the things I enjoy the most are learning programming, creating apps, and learning languages (both human and programming ones!).
+
+I currently speak three languages:
+- Italian (Native)
+- English (Intermediate)
+- Japanese (Beginner)
+
+I'm currently learning:
+- sveltekit
+- nestjs
+- typescript
+
+
 <p class="stats" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MightyCoderX&theme=tokyonight&show_icons=true&hide_border=true" alt="MightyCoderX's github stats" height="170">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" alt="top programming languages" height="170">
 </p>
-
-<!--
-**MightyCoderX/MightyCoderX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
