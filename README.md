@@ -10,6 +10,10 @@
 <p align="center">
     <img alt="Github Views Count" src="https://komarev.com/ghpvc/?username=MightyCoderX&color=blue&style=for-the-badge" width="150">
 </p>
+<!--
+Reset counter: https://yhype.me/ghpvc
+https://github.com/antonkomarev/github-profile-views-counter
+-->
 
 <p class="stats" align="center">
     <img src="images/fullstack-developer.svg" alt="MightyCoderX's github readme fullstack developer svg" width="350">
