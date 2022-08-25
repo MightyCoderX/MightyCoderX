@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img alt="Child Luffy Hello" src="images/small-luffy-hello.gif" width="80">
     Hello There
 </h1>
 
