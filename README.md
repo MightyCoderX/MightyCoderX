@@ -31,10 +31,10 @@ I currently speak three languages:
 - Japanese (Beginner)
 
 I'm currently learning:
-- sveltekit
-- nestjs
-- typescript
-
+- GNU/Linux
+- Rust
+- C
+- Nuxt
 
 <p class="stats" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MightyCoderX&theme=tokyonight&show_icons=true&hide_border=true" alt="MightyCoderX's github stats" height="170">
