@@ -32,8 +32,12 @@ I currently speak three languages:
 
 I'm currently learning:
 - GNU/Linux
-- Rust
 - C
+- C++ and CMake
+- Docker
+
+I plan on learning:
+- Rust
 - Nuxt
 
 <p class="stats" align="center">
